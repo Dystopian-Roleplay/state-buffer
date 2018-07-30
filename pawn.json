@@ -8,6 +8,6 @@
 		"pawn-lang/YSI-Includes"
 	],
 	"dev_dependencies": [
-		"ScavengeSurvive/action-text"
+		"Dystopian-Roleplay/action-text"
 	]
 }
